@@ -1,1 +1,1 @@
-# SmartBridge_Assignment_1
+# SmartBridge_Assignments
